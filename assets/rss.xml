@@ -1,0 +1,14 @@
+<rss version="2.0">
+	<channel>
+	<item>
+      <title>Buy our products</title>
+      <description>Buy latest products from our collection</description>
+	  <link>https://phpraktikum.000webhostapp.com//index.php?page=shop&amp;pg=1&amp;order=1</link> 
+    </item>	
+    <item>
+      <title>Contact us</title>
+      <description>Feel free to contact us</description>
+      <link>https://phpraktikum.000webhostapp.com//index.php?page=contact</link>
+    </item>
+  </channel>
+</rss>

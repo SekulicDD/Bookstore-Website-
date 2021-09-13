@@ -1,0 +1,109 @@
+.active{
+    color:orange !important;
+}
+
+.productDetails{
+    color:white;
+    background-color: grey !important;
+}
+
+.cart_product img{
+    height:130px;
+}
+
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+    
+  }
+  /* Zebra striping */
+tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+th { 
+  background: orange ; 
+  color: white; 
+  font-weight: bold; 
+}
+#admin td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+}
+
+#adminProductTable tr:hover{
+  background: #a6a5a1 !important; 
+}
+
+#adminProducts{
+  padding-top:30px;
+}
+
+.pagination{
+  padding-top:15px;
+}
+
+.trSelect{
+  background: #a6a5a1 !important;
+}
+
+#updateFormDiv{
+  display: none ; 
+}
+
+#insertFormDiv{
+  display: none ; 
+}
+
+#about{
+  text-align: center;
+}
+
+#aboutText{
+  font-size:17px;
+  padding-top:60px;
+  padding-bottom:90px;
+}
+
+.add-to-cart{
+  font-size:13px;
+}
+
+.product-overlay .add-to-cart{
+  font-size:13px;
+}
+
+#userData{
+  margin-bottom:40px;
+}
+
+#smallMenuList{
+  display:none;
+  background-color: black;
+  font-size:17px;
+  border-radius:12px;
+}
+
+#smallMenuList a{
+  color:orange;
+}
+
+#headerTop{
+  padding: 0px;
+}
+
+#welcomeUser{
+  text-align: center;
+}
+
+#footer1{
+  float:left;
+}
+
+.companyinfo p{
+  color:black;
+}
+
+#cartItems{
+  padding-bottom: 50px;
+}
